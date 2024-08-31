@@ -14,8 +14,12 @@ Latihan mengetik menggunakan aplikasi Rapid Typing
 
 Evaluasi: Pengambilan nilai dengan balapan mengetik via website https://play.typeracer.com/?universe=lang_id
 
+## Pengantar Ejaan Yang Disempurnakan (EYD)
+
 ## Membuat Buku
+
+## Editing Gambar
 
 ## Membuat Aplikasi Berbasis Excel
 
-## Jualan Online
+## Personal Branding

@@ -6,7 +6,7 @@ Revisi tanggal 31 Agustus 2024
 
 Santri haram buka browser. Kecuali, atas instruksi dari pengajar Komputer. Yang melanggar, akan kena iqob
 
-Santri memulai dan mengakhiri pelajara Komputer pada waktu yang telah ditetapkan (17.00-17.45)
+Santri memulai dan mengakhiri pelajaran Komputer pada waktu yang telah ditetapkan (17.00-17.45)
 
 ## Latihan Mengetik 10 Jari
 

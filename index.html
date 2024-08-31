@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kisah</title>
+    <link rel="stylesheet" href="./lib/medium.css" />
+    <style>
+      .container {
+        grid-template-rows: auto;
+      }
+      img {
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <main class="article"></main>
+    </div>
+    <script src="./lib/marked.min.js"></script>
+    <script>
+      const dapatkan = async () => {
+        let file = new URLSearchParams(window.location.search).get("file");
+
+        let data;
+
+        if (file) {
+          data = await fetch(file);
+          data = await data.text();
+        } else {
+          data = await fetch("./README.md");
+          data = await data.text();
+        }
+
+        let isi = document.querySelector(".article");
+        isi.innerHTML = marked.parse(data);
+        isi.querySelectorAll("a").forEach((x) => {
+          if (x.getAttribute("href").endsWith(".md")) {
+            x.setAttribute("href", "?file=" + x.getAttribute("href"));
+          }
+        });
+      };
+      dapatkan();
+    </script>
+  </body>
+</html>

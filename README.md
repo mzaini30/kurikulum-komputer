@@ -20,6 +20,8 @@ Evaluasi: Pengambilan nilai dengan balapan mengetik via website https://play.typ
 
 ## Editing Gambar
 
+Materi akan diajarkan oleh Ustadz Latip menggunakan aplikasi Affinity
+
 ## Membuat Aplikasi Berbasis Excel
 
 ## Personal Branding

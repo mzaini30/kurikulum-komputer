@@ -24,7 +24,12 @@
     <script src="./lib/marked.min.js"></script>
     <script>
       const dapatkan = async () => {
-        let file = new URLSearchParams(window.location.search).get("file");
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+        // let file = new URLSearchParams(window.location.search).get("file");
+        let file = location.hash.replace("#", "");
 
         let data;
 
@@ -40,11 +45,12 @@
         isi.innerHTML = marked.parse(data);
         isi.querySelectorAll("a").forEach((x) => {
           if (x.getAttribute("href").endsWith(".md")) {
-            x.setAttribute("href", "?file=" + x.getAttribute("href"));
+            x.setAttribute("href", "#" + x.getAttribute("href"));
           }
         });
       };
       dapatkan();
+      window.addEventListener("hashchange", dapatkan);
     </script>
   </body>
 </html>

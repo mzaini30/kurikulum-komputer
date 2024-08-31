@@ -16,7 +16,9 @@ Evaluasi: Pengambilan nilai dengan balapan mengetik via website https://play.typ
 
 ## Pengantar Ejaan Yang Disempurnakan (EYD)
 
-## Membuat Buku
+[Materi](./materi-eyd.md)
+
+## Membuat Buku Fiksi
 
 ## Editing Gambar
 

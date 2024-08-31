@@ -1,6 +1,6 @@
 # Kurikulum Komputer
 
-Revisi tanggal 31 Agustus 2024
+Revisi tanggal 1 September 2024
 
 ## Peraturan
 

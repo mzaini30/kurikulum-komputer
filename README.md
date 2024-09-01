@@ -32,6 +32,12 @@ Buatkan kerangka buku kumpulan cerita tentang [tema]. Yang berisi [jumlah anak] 
 Pembaca saya adalah [ciri-ciri pembaca]
 ```
 
+Kemudian, masing-masing santri membuat ceritanya.
+
+Bagi santri yang sudah selesai menuliskan ceritanya, dikumpulkan ke Ryzen 1 (intinya, komputer yang ada internetnya)
+
+Komputer yang ada internetnya, membuat cover dan bingkai menggunakan Canva Pro.
+
 ## Editing Gambar
 
 Materi akan diajarkan oleh Ustadz Latip menggunakan aplikasi Affinity

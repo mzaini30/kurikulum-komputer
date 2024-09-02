@@ -44,4 +44,6 @@ Materi akan diajarkan oleh Ustadz Latip menggunakan aplikasi Affinity
 
 ## Membuat Aplikasi Berbasis Excel
 
+[Materi](./excel.md)
+
 ## Personal Branding

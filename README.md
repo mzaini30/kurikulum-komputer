@@ -46,4 +46,8 @@ Materi akan diajarkan oleh Ustadz Latip menggunakan aplikasi Affinity
 
 [Materi](./excel.md)
 
-## Personal Branding
+## Personal Branding & Affiliate
+
+Buatlah konten yang bermanfaat, terutama bernilai dakwah. Karena kita membuat konten bukan hanya untuk terlihat bahwa kita ini ingin terlihat di publik, tapi kita ingin mendapatkan pahala dari konten-konten yang dibuat
+
+Menggunakan tools: https://medsos.surge.sh/

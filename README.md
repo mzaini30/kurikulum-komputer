@@ -40,7 +40,9 @@ Bagi santri yang sudah selesai menuliskan ceritanya, dikumpulkan ke Ryzen 1 (int
 
 Komputer yang ada internetnya, membuat cover dan bingkai menggunakan Canva Pro.
 
-Lalu, untuk dokumennya, Heading1 pakai font Cinzel Decorative (ada di Google Fonts) ukuran 22. Untuk Normal pakai font Candara ukuran 16. Spasi 1,5.
+Lalu, untuk dokumennya, Heading 1 pakai font Cinzel Decorative (ada di Google Fonts) ukuran 22. Untuk Normal pakai font Candara ukuran 16. Spasi 1,5.
+
+Jangan lupa pakai nomor halaman dan daftar isi
 
 ## Editing Gambar
 
@@ -48,7 +50,9 @@ Materi akan diajarkan oleh Ustadz Latip menggunakan aplikasi Affinity
 
 ## Membuat Aplikasi Berbasis Excel
 
-[Materi](./excel.md)
+[Dasar-dasar Excel](./excel.md)
+
+Membuat Aplikasi dengan Excel (WIP)
 
 ## Personal Branding & Affiliate
 

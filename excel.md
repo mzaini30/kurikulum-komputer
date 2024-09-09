@@ -89,3 +89,56 @@
 4. Untuk kolom Hari, rumusnya adalah: =TEXT(A2,"dddd")
 
 ## Penjumlahan
+
+![](./gambar/excel/penjumlahan.png)
+
+### Cara Mengerjakan
+
+1. Untuk kolom Nomor, di baris kedua, rumusnya adalah: =A2+1
+2. Untuk Harga Satuan, pakai format Accounting
+3. Untuk Jumlah Harga, formatnya sama
+4. Untuk Jumlah Harga, rumusnya adalah: =C2\*D2
+5. Yang Total, jangan diisi dulu
+6. Blok E2 sampai E6
+7. Pencet Alt =
+
+## Textjoin
+
+![](./gambar/excel/textjoin.png)
+
+### Cara Mengerjakan
+
+Rumusnya adalah: =TEXTJOIN("-",TRUE,B2:D2)
+
+## Pivot Table
+
+![](./gambar/excel/pivot-table-1.png)
+
+![](./gambar/excel/pivot-table-2.png)
+
+### Cara Mengerjakan
+
+1. Blok tablenya
+2. Klik Insert, pilih Pivot Table
+3. Klik Ok
+4. Seret Bulan ke Columns
+5. Seret Jenis Barang ke Rows
+6. Seret Keuntungan ke Values
+
+## Vlookup
+
+![](./gambar/excel/vlookup-1.png)
+
+![](./gambar/excel/vlookup-2.png)
+
+`=VLOOKUP(F2;$A$1:$C$11;2;FALSE)`
+
+## Laporan Penjualan
+
+![](./gambar/excel/laporan-penjualan.png)
+
+## Umur
+
+![](./gambar/excel/umur.png)
+
+`=DATEDIF(B2;TODAY();"y")&" tahun"`

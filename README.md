@@ -36,7 +36,11 @@ Kemudian, masing-masing santri membuat ceritanya.
 
 Bagi santri yang sudah selesai menuliskan ceritanya, dikumpulkan ke Ryzen 1 (intinya, komputer yang ada internetnya)
 
+### Mendesain Ebook
+
 Komputer yang ada internetnya, membuat cover dan bingkai menggunakan Canva Pro.
+
+Lalu, untuk dokumennya, Heading1 pakai font Cinzel Decorative (ada di Google Fonts) ukuran 22. Untuk Normal pakai font Candara ukuran 16. Spasi 1,5.
 
 ## Editing Gambar
 
